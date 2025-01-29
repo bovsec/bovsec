@@ -1,6 +1,6 @@
 👾 BovSec'in GitHub Dünyasına Hoş Geldiniz!
 Merhaba Dünya! 🌍 Ben BovSec, siber güvenlik alanında tutkulu bir etik hacker ve teknoloji meraklısıyım. Dijital dünyayı daha güvenli bir hale getirme misyonuyla sistemleri keşfetmeyi, açıkları bulmayı ve yenilikçi araçlar geliştirmeyi seviyorum.
-
+.
 🔍 Hakkımda
 💻 Uzmanlık Alanlarım: Penetrasyon Testleri, Bug Bounty, Web Uygulama ve Network Güvenliği 
 🌱 Şu Anda Öğrendiğim Konular: Buffer Overflow konusunda kendimi geliştireceğim.
